@@ -1,6 +1,11 @@
-Privacy Policy — W7M-BOT-OFFICIAL
+---
+layout: default
+title: Privacy Policy - W7M-BOT-OFFICIAL
+---
 
-Last Updated: September 25, 2026
+# Privacy Policy — W7M-BOT-OFFICIAL
+
+**Last Updated:** September 25, 2026
 
 W7M-BOT-OFFICIAL ("the Bot") is a Discord application that provides features and services within Discord servers.
 
